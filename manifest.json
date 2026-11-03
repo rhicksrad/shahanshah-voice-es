@@ -3720,5 +3720,21 @@
 	"w_wild_goat.play": "dce46f4d7ffa1bf9aa5fcd19ea2a9efc888df18c",
 	"w_wild_goat.s0": "e5497f6727e20f6f7f6f4886d7558b901174628b",
 	"w_wild_goat.s1": "2029065503dff67cd0e8e2a289a10ae8595b5921",
-	"w_wild_goat.s2": "af603ea9cbc9ac87d4217f1fce729b3f6cb2380d"
+	"w_wild_goat.s2": "af603ea9cbc9ac87d4217f1fce729b3f6cb2380d",
+	"w_wild_goat.s3": "2a52299d94f374e9d23f50d70474b84b0c0c7f71",
+	"w_wild_goat.s4": "45113b21af261e610dd2749c5224573e0b9c2dfe",
+	"w_wild_horse.lead": "f37218a3298100d966c47b3fe22f15545db04d42",
+	"w_wild_horse.play": "462d758575fc7923988cb83e94704562e8eef096",
+	"w_wild_horse.s0": "a8c8fe4a26646368c59083938d98856680d0aadd",
+	"w_wild_horse.s1": "193c81fc826c0e4b31178238cd7b9d53de9ea5ce",
+	"w_wild_horse.s2": "fae5a719d28e0ef0978bd209ecbf6966cf1a4e38",
+	"w_wild_horse.s3": "a20bcbf172d16c917177030b075c437bcd148bd5",
+	"w_wild_horse.s4": "a7806683829281fb972bb7dba8870561745d2d2d",
+	"w_wild_horse.s5": "9e1557225c40ae838a66f43bbb9cedd9fbfefaa9",
+	"w_wolf.lead": "78acb0d1b08469a1adb5dd6a7cf3b78dd324ec45",
+	"w_wolf.play": "409648b7c01f7c3ad35c18e5cf34e3a5fdb271e6",
+	"w_wolf.s0": "620a151178eeee375c8a8ed2897bc92a6f0ce26e",
+	"w_wolf.s1": "e8bf760c7170558f02358b9ce07170f09a31a416",
+	"w_wolf.s2": "6883ea2779c20f4a447fea1b38963e7f7abd285a",
+	"w_wolf.s3": "1d7fc8973ce8152d29edce1f014e3689a6a9641a"
 }
